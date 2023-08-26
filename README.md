@@ -8,7 +8,7 @@ This is a Solidity smart contract that simulates a bus ticket booking system on 
 
 - **Contract Address:** [0x5FbDB2315678afecb367f032d93F642f64180aa3]
 - **Solidity Version:** ^0.8.0
-- **License:** [MIT License](https://opensource.org/licenses/MIT)
+- **License:** [MIT License](LICENSE)
 
 ## Features
 
